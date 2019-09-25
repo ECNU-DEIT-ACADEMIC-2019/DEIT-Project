@@ -2,6 +2,8 @@
 e-learning,platform design,group project
 ## we analyze the platform together!
 
+![Netease](https://edu-image.nosdn.127.net/51373455cc3e4a96a802e89387cb868c.png?imageView&quality=100)
+
 # knowledge，Skills，Attitude
 
 Many different types can be seen in the course classification menu of netease cloud classroom platform, which is similar to the general e-learning platform. However, netease cloud is unique in that it links seemingly unrelated courses and makes several course systems.

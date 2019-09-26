@@ -50,14 +50,17 @@ Many different types can be seen in the course classification menu of netease cl
 # 4.How to learn
 <br/>
 In addition to the traditional online learning methods, NetEase Cloud Classroom also puts forward many functions that help learners to learn. Next I will list a few features.
-## Skills atlas：
+### Skills atlas：
 Skills atlas is a learning knowledge atlas developed by Netease Cloud Classroom. Through spider web atlas, learners can understand and grasp the overall framework of related categories intuitively and clearly, and quickly find their own learning points, so as to quickly complete the relevant skills and knowledge learning.
-## note：
+<br/>
+### note：
 Netease cloud classroom notes function for video learning has done a special design. When the learner adds notes, he automatically saves the current time point of the video, and when he reviews the notes, he can watch the video at that time. Learners can also save video screenshots or upload local pictures to their notes, making it faster to save teachers'blackboard books and important information.
 Learners can make notes public, comment on and collect other people's notes, which strengthens the learning and communication between users. In addition, notes can be synchronized to their own "Dow Cloud Notes" or shared to various social networks for centralized management.
-## Progress Management and Learning Supervision：
+<br/>
+### Progress Management and Learning Supervision：
 In the process of learners'learning, NetEase Cloud Classroom supports automatic \ manual marking of class completion status, or marking as important doubtful, so that users can review and control the learning progress. In addition, users can set the learning schedule of courses, and the cloud classroom will send reminders to users regularly.
-## Questions and answers：
+<br/>
+### Questions and answers：
 Learners can ask questions at any time in the process of learning. According to the content of the questions, the cloud classroom will present the questions to the relevant learners or lecturers to help users get the answers quickly.
 
 

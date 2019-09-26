@@ -50,7 +50,8 @@ Many different types can be seen in the course classification menu of netease cl
 # 4.How to learn
 <br/>
 In addition to the traditional online learning methods, NetEase Cloud Classroom also puts forward many functions that help learners to learn. Next I will list a few features.
-###  Skills atlas：
+
+### Skills atlas：
 Skills atlas is a learning knowledge atlas developed by Netease Cloud Classroom. Through spider web atlas, learners can understand and grasp the overall framework of related categories intuitively and clearly, and quickly find their own learning points, so as to quickly complete the relevant skills and knowledge learning.
 
 ### note：

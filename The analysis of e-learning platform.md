@@ -14,9 +14,7 @@ Many different types can be seen in the course classification menu of netease cl
 
 >  Workplace general skills curriculum system；
 <br/>
-
 >  Programming and development curriculum system；
-<br/>
 
 >  Artificial intelligence and data science curriculum system；
 <br/>

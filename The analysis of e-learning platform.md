@@ -9,6 +9,7 @@ You can study anywhere as long as you have time.
 ![Netease](https://camo.githubusercontent.com/f18d9346542d009c17f410b855a795dc61d15071/68747470733a2f2f6564752d696d6167652e6e6f73646e2e3132372e6e65742f35313337333435356363336534613936613830326538393338376362383638632e706e673f696d61676556696577267175616c6974793d313030)
 
 Many different types can be seen in the course classification menu of netease cloud classroom platform, which is similar to the general e-learning platform. However, netease cloud is unique in that it links seemingly unrelated courses and makes several course systems.
+![Netease](https://github.com/ECNU-DEIT-ACADEMIC-2019/DEIT-Project/blob/master/%E5%9B%BE%E7%89%872.png)
 
 ## Like：
 
@@ -68,20 +69,22 @@ In addition to the traditional online learning methods, NetEase Cloud Classroom 
 
 ### Skills atlas：
 Skills atlas is a learning knowledge atlas developed by Netease Cloud Classroom. Through spider web atlas, learners can understand and grasp the overall framework of related categories intuitively and clearly, and quickly find their own learning points, so as to quickly complete the relevant skills and knowledge learning.
-![Netease]
-(https://github.com/ECNU-DEIT-ACADEMIC-2019/DEIT-Project/blob/master/%E5%9B%BE%E7%89%871.png?raw=true)
+![Netease](https://github.com/ECNU-DEIT-ACADEMIC-2019/DEIT-Project/blob/master/图片1.png)
 
 
 ### note：
 Netease cloud classroom notes function for video learning has done a special design. When the learner adds notes, he automatically saves the current time point of the video, and when he reviews the notes, he can watch the video at that time. Learners can also save video screenshots or upload local pictures to their notes, making it faster to save teachers'blackboard books and important information.
 Learners can make notes public, comment on and collect other people's notes, which strengthens the learning and communication between users. In addition, notes can be synchronized to their own "Dow Cloud Notes" or shared to various social networks for centralized management.
 
+![Netease](https://github.com/ECNU-DEIT-ACADEMIC-2019/DEIT-Project/blob/master/%E5%9B%BE%E7%89%873.png?raw=true)
+
 ### Progress Management and Learning Supervision：
 In the process of learners'learning, NetEase Cloud Classroom supports automatic \ manual marking of class completion status, or marking as important doubtful, so that users can review and control the learning progress. In addition, users can set the learning schedule of courses, and the cloud classroom will send reminders to users regularly.
+![Netease](https://github.com/ECNU-DEIT-ACADEMIC-2019/DEIT-Project/blob/master/%E5%9B%BE%E7%89%874.png?raw=true)
 
 ### Questions and answers：
 Learners can ask questions at any time in the process of learning. According to the content of the questions, the cloud classroom will present the questions to the relevant learners or lecturers to help users get the answers quickly.
-
+![Netease](https://github.com/ECNU-DEIT-ACADEMIC-2019/DEIT-Project/blob/master/%E5%9B%BE%E7%89%875.png)
 
 # 5.The experience：
 <br/>

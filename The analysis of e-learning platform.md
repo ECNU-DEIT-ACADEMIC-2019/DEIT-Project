@@ -95,6 +95,8 @@ this video. You can know something about this lecture and finally decide whether
 is also interested in this lesson on the forum if you have some problems because it bases on the net that is very convenient to communicate.
 Finally, I argue that the most important thing is that you can learn the lessons for many times if you can not catch the point.
 
+![Netease](https://github.com/ECNU-DEIT-ACADEMIC-2019/DEIT-Project/blob/master/%E5%9B%BE%E7%89%876.png)
+
 
 # 6.interactive objects:
 <br/>

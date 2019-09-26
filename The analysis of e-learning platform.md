@@ -7,7 +7,7 @@ The analysis of e-learning platform：NetEase OpenCourse
 <br/>
 ![Netease](https://camo.githubusercontent.com/f18d9346542d009c17f410b855a795dc61d15071/68747470733a2f2f6564752d696d6167652e6e6f73646e2e3132372e6e65742f35313337333435356363336534613936613830326538393338376362383638632e706e673f696d61676556696577267175616c6974793d313030)
 
-## knowledge，Skills，Attitude
+### knowledge，Skills，Attitude
 
 Many different types can be seen in the course classification menu of netease cloud classroom platform, which is similar to the general e-learning platform. However, netease cloud is unique in that it links seemingly unrelated courses and makes several course systems.
 

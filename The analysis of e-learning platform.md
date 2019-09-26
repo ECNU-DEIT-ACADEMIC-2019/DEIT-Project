@@ -1,13 +1,13 @@
 The analysis of e-learning platform：NetEase OpenCourse
 
-1.Where to learn
+# 1.Where to learn
 
-2.What to learn
+# 2.What to learn
 
 <br/>
 ![Netease](https://camo.githubusercontent.com/f18d9346542d009c17f410b855a795dc61d15071/68747470733a2f2f6564752d696d6167652e6e6f73646e2e3132372e6e65742f35313337333435356363336534613936613830326538393338376362383638632e706e673f696d61676556696577267175616c6974793d313030)
 
-# knowledge，Skills，Attitude
+## knowledge，Skills，Attitude
 
 Many different types can be seen in the course classification menu of netease cloud classroom platform, which is similar to the general e-learning platform. However, netease cloud is unique in that it links seemingly unrelated courses and makes several course systems.
 
@@ -43,11 +43,12 @@ Many different types can be seen in the course classification menu of netease cl
 <br/>
 
 >### Develop the habit of reasonable allocation of time and form an efficient lifestyle as an attitude type.
-3.Effect of learning
+# 3.Effect of learning
 
 
 
-4.How to learn
+# 4.How to learn
+<br/>
 In addition to the traditional online learning methods, NetEase Cloud Classroom also puts forward many functions that help learners to learn. Next I will list a few features.
 > ### Skills atlas：
 Skills atlas is a learning knowledge atlas developed by Netease Cloud Classroom. Through spider web atlas, learners can understand and grasp the overall framework of related categories intuitively and clearly, and quickly find their own learning points, so as to quickly complete the relevant skills and knowledge learning.
@@ -60,7 +61,8 @@ In the process of learners'learning, NetEase Cloud Classroom supports automatic 
 Learners can ask questions at any time in the process of learning. According to the content of the questions, the cloud classroom will present the questions to the relevant learners or lecturers to help users get the answers quickly.
 
 
-5.The experience：
+# 5.The experience：
+<br/>
 Our group have chosen a platform that named “网易云课堂”,which is specially used to teach the people to learn something they like.
 Today I will tell you the process of using this platform. Firstly, you need to register an account, link it with a phone and log in.
 A new web will appear with some buttons, such as language learning, creative design, AI, product and operation and so on. What makes me 
@@ -72,7 +74,8 @@ is also interested in this lesson on the forum if you have some problems because
 Finally, I argue that the most important thing is that you can learn the lessons for many times if you can not catch the point.
 
 
-6.interactive objects:
+# 6.interactive objects:
+<br/>
   Netease Open Courses is an e-learning platform which provides a numerous ammount of online content , offering l-
 earners with rich TED presentation and open cource resources . Thus , the interactive objects on the platform is rich , 
 too .  In the process of learning through online courses , we usually communicate synchronously and asynchronously with 

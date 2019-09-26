@@ -2,6 +2,7 @@
 
 # 1.Where to learn
 You can study anywhere as long as you have time.
+![Netease](https://github.com/ECNU-DEIT-ACADEMIC-2019/DEIT-Project/blob/master/5.gif)
 # 2.What to learn
 
 <br/>

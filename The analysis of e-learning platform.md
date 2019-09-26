@@ -1,7 +1,7 @@
 # The analysis of e-learning platform：NetEase Cloud Classroom
 
 # 1.Where to learn
-
+You can study anywhere as long as you have time.
 # 2.What to learn
 
 <br/>

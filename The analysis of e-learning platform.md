@@ -47,6 +47,7 @@ Many different types can be seen in the course classification menu of netease cl
 <br/>
 Netease cloud classroom is based on the practical requirements of learners. Currently, learning through netease cloud classroom has the following learning effects.
 ### Improve learners' performance expectations.
+
 Netease cloud classroom can help students finish learning tasks faster and improve learning efficiency.
 ### Improve learners' expectation of effort.
 The interactive function of netease cloud learning platform is clear and easy to understand, and the operation is simple. Learners can easily complete what they want to do, thus improving their expectation of effort.

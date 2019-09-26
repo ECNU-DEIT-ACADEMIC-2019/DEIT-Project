@@ -81,10 +81,10 @@ Finally, I argue that the most important thing is that you can learn the lessons
 <br/>
   The Netease Cloud Classroom is an e-learning platform which provides a numerous ammount of online content , offering learners with rich online cource resources which require to pay. Thus , we will have various interactive objects on the plat, too .  In the process of learning through thses courses , we usually communicate synchronously and asynchronously with others through the screen . And our objects contain vedio’s presenters , “classmates” in the comment area , as well as ourselves . 
   
-## Learn From Teachers:
+### Learn From Teachers:
   We learn knowledge and skills in different regions that we’re interested in from instructors that offering lectures and cources coming from various universities and organizations.
   
-## Learn From Classmates:
+### Learn From Classmates:
   Expending our thoughts and ideas through communicating with “classmates” in the comment area . 
-## Learn From Ourselves:
+### Learn From Ourselves:
   Engaging in constructivist learning with ourselves during the process of mining , supplementing and building connections between knowledge fragments in our own brains . 

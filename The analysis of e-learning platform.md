@@ -44,8 +44,16 @@ Many different types can be seen in the course classification menu of netease cl
 
 >### Develop the habit of reasonable allocation of time and form an efficient lifestyle as an attitude type.
 # 3.Effect of learning
-
-
+<br/>
+Netease cloud classroom is based on the practical requirements of learners. Currently, learning through netease cloud classroom has the following learning effects.
+## Improve learners' performance expectations.
+Netease cloud classroom can help students finish learning tasks faster and improve learning efficiency.
+## Improve learners' expectation of effort.
+The interactive function of netease cloud learning platform is clear and easy to understand, and the operation is simple. Learners can easily complete what they want to do, thus improving their expectation of effort.
+## To promote the adoption of knowledge by students.
+Netease cloud classroom can be linked with other platforms, so that learners can learn more knowledge when they have relevant knowledge reserve. Even if they encounter problems in the learning process of the platform, they can easily obtain technical support.
+## Good classroom atmosphere.
+In netease cloud classroom, interaction and communication between students, teachers and students can be realized, and students' learning behavior can affect the atmosphere of the classroom at any time, which is also a benign promotion process.
 
 # 4.How to learn
 <br/>

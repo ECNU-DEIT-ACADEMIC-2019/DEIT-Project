@@ -14,14 +14,19 @@ Many different types can be seen in the course classification menu of netease cl
 
 >  Workplace general skills curriculum system；
 <br/>
+
 >  Programming and development curriculum system；
 <br/>
+
 >  Artificial intelligence and data science curriculum system；
 <br/>
+
 >  Internet product and operation course system；
 <br/>
+
 >  Design creative curriculum system；
 <br/>
+
 >  E-commerce operation course system
 
 

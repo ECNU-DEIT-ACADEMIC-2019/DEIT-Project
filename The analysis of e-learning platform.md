@@ -68,6 +68,9 @@ In addition to the traditional online learning methods, NetEase Cloud Classroom 
 
 ### Skills atlas：
 Skills atlas is a learning knowledge atlas developed by Netease Cloud Classroom. Through spider web atlas, learners can understand and grasp the overall framework of related categories intuitively and clearly, and quickly find their own learning points, so as to quickly complete the relevant skills and knowledge learning.
+![Netease]
+(https://github.com/ECNU-DEIT-ACADEMIC-2019/DEIT-Project/blob/master/%E5%9B%BE%E7%89%871.png?raw=true)
+
 
 ### note：
 Netease cloud classroom notes function for video learning has done a special design. When the learner adds notes, he automatically saves the current time point of the video, and when he reviews the notes, he can watch the video at that time. Learners can also save video screenshots or upload local pictures to their notes, making it faster to save teachers'blackboard books and important information.

@@ -67,3 +67,4 @@ In the study of safety education platform, students' learning behavior is mainly
 * The platform aim to help children construct the knowledge by the virtual reality. Let them react to the situation to build a right framework about safety.
 
 # The framework
+![Netease](https://github.com/ECNU-DEIT-ACADEMIC-2019/DEIT-Project/blob/master/images/framework.png)

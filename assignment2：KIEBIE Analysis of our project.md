@@ -48,6 +48,7 @@ Because our group wants to do a safety education website for primary and middle 
 ## Interact object
 * Human-human interaction（including students-students & students-teachers）
 * Human-machine interaction（including interactive videos，pictures and so on）
+
 ## Interaction
 
 * between the learner and the learning video
